@@ -45,7 +45,7 @@ Our findings are detailed in the Jupyter Notebook (and also in the pdf submitted
 - Value function heatmaps
 - Optimal policy visualizations
 - Comparisons between different methods and environmental setups
-**Kindly note that a way more in dept section wise result analysis and discussion is included in the report and the code file**
+**Kindly note that a way more in depth section wise result analysis and discussion is included in the report and the code file**
 
 ## Setup and Reproduction Guide
 
@@ -86,7 +86,7 @@ The embedded plots and discussions within the notebook will guide you through ou
 - Analysis of optimal policies in various gridworld setups
 - Impact of the permuting squares on the learned policies
   
-**Kindly note that a way more in dept section wise result analysis and discussion is included in the report and the code file**
+**Kindly note that a way more in depth section wise result analysis and discussion is included in the report and the code file**
 
 ## Contact
 Should you have any questions, please contact us at:
