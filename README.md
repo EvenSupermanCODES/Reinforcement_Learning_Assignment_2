@@ -84,6 +84,8 @@ The embedded plots and discussions within the notebook will guide you through ou
 - Comparison of value functions across different methods
 - Analysis of optimal policies in various gridworld setups
 - Impact of the permuting squares on the learned policies
+  
+**A way more in dept section wise result analysis and discussion is included in the report and the code file**
 
 ## Contact
 Should you have any questions, please contact us at:
