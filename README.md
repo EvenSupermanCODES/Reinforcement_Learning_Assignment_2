@@ -45,6 +45,7 @@ Our findings are detailed in the Jupyter Notebook (and also in the pdf submitted
 - Value function heatmaps
 - Optimal policy visualizations
 - Comparisons between different methods and environmental setups
+
 **Kindly note that a way more in depth section wise result analysis and discussion is included in the report and the code file**
 
 ## Setup and Reproduction Guide
