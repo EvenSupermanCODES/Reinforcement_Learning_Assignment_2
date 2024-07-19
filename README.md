@@ -78,7 +78,7 @@ The `.ipynb` file can be executed by uploading it to Google Colab.
    ```
    jupyter lab
    ```
-3. Open the ipynb file and execute the cells to see the code and results.
+3. Open the .ipynb file and execute the cells to see the code and results.
 
 ### Results Analysis
 The embedded plots and discussions within the notebook will guide you through our analysis. Key areas to focus on include:
